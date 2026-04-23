@@ -23,7 +23,7 @@ I'm a passionate software developer with a keen interest in web development, dat
 
 ## 📈 GitHub Stats
 
-![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anish-Mndhra&show_icons=true&theme=radical)
+![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anish-Mndhr&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Mndhr&layout=compact&theme=radical)
 
 
