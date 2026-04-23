@@ -10,7 +10,7 @@ I'm a passionate software developer with a keen interest in web development, dat
 - 🌱 I’m currently learning more about machine learning and cloud computing.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to JavaScript, Python, or web development.
-- 📫 How to reach me: [Email](mailto:anishmndhr02@gmail.com) | [LinkedIn](https://www.linkedin.com/in/itsanmolgupta/](https://www.linkedin.com/in/anishmndhr/))
+- 📫 How to reach me: [Email](mailto:anishmndhr02@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anishmndhr/)
 
 ## 🛠️ Technologies & Tools
 
